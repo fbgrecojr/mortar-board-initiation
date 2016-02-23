@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background: #000 url(./../images/background.jpg) center center fixed no-repeat;
+    -moz-background-size: cover;
+    background-size: cover;
+}

@@ -1,0 +1,9 @@
+{
+    "name": "mortar_board_initiation",
+    "version": "0.1.0",
+    "dependencies": {
+        "socket.io": "1.4.5",
+        "express": "4.13.4",
+        "jade": "1.9.2"
+    }
+}
